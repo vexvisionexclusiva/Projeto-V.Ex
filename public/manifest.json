@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "V.Ex Visão Exclusiva",
+  "short_name": "V.Ex",
+  "description": "Plataforma de alavancagem de negócios, feed global compartilhado, marketing com IA e pagamentos em Angola para Android e iOS.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090d16",
+  "theme_color": "#4338ca",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

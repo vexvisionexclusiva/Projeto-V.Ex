@@ -1,0 +1,6 @@
+{
+  "name": "CresceMais PME",
+  "description": "Plataforma de expansão de negócios para pequenas empresas com automação de comentários, redirecionamento para DM, roteiros de vídeos, gerador de anúncios e estúdio de flyers com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
